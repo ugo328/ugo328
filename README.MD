@@ -2,16 +2,12 @@
 
 Olá, meu nome é Ugo Ventura, tenho 34 anos e sou fascinado em tecnologia.
 Estou em constante aprendizado, sempre buscando me atualizar e evoluir, já que a tecnologia está em constante evolução.
-Nesses 5anos que estou inserido no mercado de TI, pude trabalhar em grandes empresas financeiras, sempre participando de projetos da área de TI, o que foi fundamental para meu crescimento técnico e social.
+Nesses 5 anos que estou inserido no mercado de TI, pude trabalhar em grandes empresas financeiras, sempre participando de projetos da área de TI, o que foi fundamental para meu crescimento técnico e social.
 Iniciei minha carreira atuando com atendimento HelpDesck, e após pouco tempo passei a dar manutenção em códigos de aplicações e páginas web.
 Hoje atuo com testes de acessibilidades em Apps em plataformas Desktop, Web e Mobile, garantindo acessibilidade e usabilidade para pessoas usuárias de leitores de tela, seja em uma aplicação, página web ou aparelho celular.
 Buscando oferecer uma melhor experiência de uso ao usuário final, meu papel é garanti que o fluxo será concretizado sem nem um tipo de barreira de acessibilidade.
 Para isso, preciso me  certificar que toda a semântica do código foi bem construída, que todos os elementos foram devidamente escritos, se precisar e for  possível sugerir a tecnologia a ser implementada no projeto.
-Vantagens em manter um Analista de qualidade de teste manual no time de desenvolvimento.
-Redução de horas de correções de bug.
-reduz o risco de adiar o fechamento de um pacote.
-O código sempre estará em conformidade com as normas da WCAG, com isso estará semanticamente correto com os leitores de tela.
-Buscando sempre executar os testes em ambientes homologados por meio da metodologia ágil
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
